@@ -1,11 +1,17 @@
-This project was given to me in my student coursework to practice data cleaning and analysis. 
-I was presented the following questions to answer and sub-questions to help guide me analysis
+# Vacation Rental Data Analysis
 
-1. Which neighborhoods and property sizes i.e. number of bedrooms are most attractive for vacation rentals?
-        The neighborhoods which are most attractive for vacation rentals
-        The property sizes (i.e., how many bedrooms) that are most popular for vacation rentals
-        If different neighborhoods have different preferences for property sizes
-   
-2. How much money did the most attractive listings generate?
+This project was part of my student coursework to practice **data cleaning and analysis**. I was presented with a set of questions and sub-questions to guide my analysis.
 
-I used a combination of piviot tables and charts to come to conclusions and show evidence. 
+## Research Questions
+
+### 1. Which neighborhoods and property sizes (i.e., number of bedrooms) are most attractive for vacation rentals?
+
+- Identify the neighborhoods that are most attractive for vacation rentals.
+- Determine the property sizes (number of bedrooms) that are most popular.
+- Explore whether different neighborhoods have different preferences for property sizes.
+
+### 2. How much money did the most attractive listings generate?
+
+## Methodology
+
+I used a combination of **pivot tables** and **charts** to draw conclusions and provide visual evidence for my findings.
