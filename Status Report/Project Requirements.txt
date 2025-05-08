@@ -1,0 +1,21 @@
+Data was processed by a senior analysist and was passed down for a report to be created. 
+The following were report requirements:
+
+1. Prepare a concise report summarizing key findings, insights, and recommendations for Fresh Beats.
+
+2. Use the provided report template to format the report professionally and clearly.
+
+3. Target the report for stakeholders, ensuring it includes valuable insights into user engagement and platform success/improvement areas.
+
+4. Select appropriate insights and visualizations from the materials provided (no need to create new ones).
+
+5. Connect visuals and insights logically to the business challenges and stakeholder interests.
+
+6. Relate findings to business needs and propose actionable recommendations.
+
+7. Do not perform calculations, but focus on understanding and interpreting provided data and visuals.
+
+8. Review all provided materials (dataset, visuals, insights) thoroughly before writing the report.
+
+9. Demonstrate understanding of how visuals support business decision-making.
+
