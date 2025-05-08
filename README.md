@@ -8,7 +8,7 @@ Portfolio of completed projects I worked on while attending the BI Analytics Tri
 | 3 | [SQL Analysis](https://github.com/heflick-thorne/Data-Projects/tree/main/SQL%20Analysis) | Data Analysis inside SQL. |
 | 4 | [Business Analytics Project](https://github.com/heflick-thorne/Data-Projects/tree/main/Business%20Analytics%20Project) | User Retention Analysis, PDF. |
 | 5 | [Tableau Data Visualization](https://github.com/heflick-thorne/Data-Projects/tree/main/Tableau%20Data%20Visualization) | Product Analysis, PDF. |
-| 6 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 6 | [Power BI](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 7 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 8 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 9 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
